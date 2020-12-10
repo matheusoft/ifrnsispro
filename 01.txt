@@ -3,3 +3,4 @@ trabalhando com git --versao 02
 nova linha incluida
 mais outra linha
 preciso uncluir uma nova linha
+incluindo uma linha pelo github
